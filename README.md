@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/SebLague/Images/master/Geographical%20Adventures%202.jpg)
+![Image](https://github.com/squigglesdev/squigglesdev/raw/main/SquigglesBanner.png)
 
 # Hey! I'm Squiggles. 
 
