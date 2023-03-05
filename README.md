@@ -2,6 +2,6 @@
 
 # Hey! I'm Squiggles. 
 
-I'm 15 and a high school student, who's dream job is to be a game dev. I've always loved games since I was a kid, and I've always wanted to know how they were made. I've been programming for about 5 years, but only in the last two or so has my skill really come along. I'm also not that bad at pixel art, so I'm in a pretty good situation. I haven't released any games yet due to the sheer lack of time I have, but I'm working on a few projects and looking to apply for work experience at a local game dev studio once my GCSEs (exams) are done and dusted. Hopefully you can expect many games from me in the future!
+I'm 15, a full-time high school student, and an aspiring game dev. I’m from the UK, and working hard to get myself into the gamedev industry. Being a student, this isn’t easy, but I’m doing by best to try and contribute to as many open-source projects as I can, and teach myself to make games.
 
 [My info](https://linktr.ee/squigglesdev)
