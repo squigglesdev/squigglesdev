@@ -4,4 +4,4 @@
 
 I'm a full-time student and an aspiring game dev.
 
-[More info!](https://linktr.ee/squigglesdev)
+https://squiggles.dev
